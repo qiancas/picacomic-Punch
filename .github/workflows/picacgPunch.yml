@@ -12,7 +12,7 @@ on:
     
     
   schedule:
-    - cron: '29 13 * * *'
+    - cron: '15 15 * * *'
 
 jobs:
 
